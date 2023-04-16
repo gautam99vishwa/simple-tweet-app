@@ -1,1 +1,1 @@
-# simple-tweet-app
+# linux_tweet_app
